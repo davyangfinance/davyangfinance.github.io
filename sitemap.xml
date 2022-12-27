@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/home-unused/demo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/skills/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/experience/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/accomplishments/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/posts/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/talks/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/publications/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/contact/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -119,6 +146,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home-unused/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
