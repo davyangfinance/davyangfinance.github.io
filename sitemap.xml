@@ -10,11 +10,11 @@
   </url><url>
     <loc>https://davyangfinance.github.io/home-unused/accomplishments/</loc>
   </url><url>
+    <loc>https://davyangfinance.github.io/home-unused/publications/</loc>
+  </url><url>
     <loc>https://davyangfinance.github.io/home-unused/posts/</loc>
   </url><url>
     <loc>https://davyangfinance.github.io/home-unused/talks/</loc>
-  </url><url>
-    <loc>https://davyangfinance.github.io/home-unused/publications/</loc>
   </url><url>
     <loc>https://davyangfinance.github.io/home-unused/tags/</loc>
   </url><url>
@@ -29,6 +29,24 @@
     <loc>https://davyangfinance.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davyangfinance.github.io/publication-type/3/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davyangfinance.github.io/publication_types/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davyangfinance.github.io/publication/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davyangfinance.github.io/tag/source-themes/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davyangfinance.github.io/tags/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davyangfinance.github.io/publication/preprint/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davyangfinance.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,9 +57,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davyangfinance.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davyangfinance.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davyangfinance.github.io/post/getting-started/</loc>
@@ -55,21 +70,6 @@
   </url><url>
     <loc>https://davyangfinance.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davyangfinance.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davyangfinance.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davyangfinance.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davyangfinance.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davyangfinance.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davyangfinance.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
