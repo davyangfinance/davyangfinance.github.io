@@ -5,12 +5,30 @@
     <link>https://davyangfinance.github.io/publication/</link>
       <atom:link href="https://davyangfinance.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by Yilin Yang</copyright><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by Yilin Yang</copyright><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davyangfinance.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://davyangfinance.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bank Funding Risk, Reference Rates, and Credit Supply</title>
+      <link>https://davyangfinance.github.io/publication/bankfundingriskreferenceratesandcreditsupply/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://davyangfinance.github.io/publication/bankfundingriskreferenceratesandcreditsupply/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt;</description>
+    </item>
     
     <item>
       <title>What Quantity of Reserves Is Sufficient?</title>
