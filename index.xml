@@ -5,7 +5,7 @@
     <link>https://davyangfinance.github.io/</link>
       <atom:link href="https://davyangfinance.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yilin (David) Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by Yilin Yang</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 by Yilin Yang</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davyangfinance.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yilin (David) Yang</title>
@@ -144,7 +144,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://davyangfinance.github.io/publication/whatquantityofreservesissufficient2022/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://davyangfinance.github.io/publication/whatquantityofreservesissufficient2022/</guid>
-      <description>&lt;!-- 
+      <description>&lt;p&gt;WFA 2022 Brattle Group Ph.D. Candidate Awards For Outstanding Research&lt;/p&gt;
+&lt;p&gt;The BlackRock Applied Research Award 2021 (runner-up)&lt;/p&gt;
+&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -154,7 +156,8 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
- --&gt;</description>
+ --&gt;
+</description>
     </item>
     
     <item>
@@ -359,7 +362,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-967342518&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-748653921&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -369,7 +372,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-967342518&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-748653921&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
