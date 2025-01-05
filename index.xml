@@ -122,7 +122,7 @@
     </item>
     
     <item>
-      <title>Designing Efficient Payment System: A Structural Approach</title>
+      <title>Designing Efficient Payment Systems: A Structural Approach</title>
       <link>https://davyangfinance.github.io/publication/paymentsystemefficiency/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://davyangfinance.github.io/publication/paymentsystemefficiency/</guid>
@@ -398,7 +398,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-341892567&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-931725684&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -408,7 +408,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-341892567&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-931725684&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
