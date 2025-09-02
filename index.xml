@@ -5,7 +5,7 @@
     <link>https://davyangfinance.github.io/</link>
       <atom:link href="https://davyangfinance.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yilin (David) Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 by Yilin Yang</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 by Yilin Yang</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davyangfinance.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yilin (David) Yang</title>
@@ -119,6 +119,42 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Designing Efficient Payment Systems: A Structural Approach</title>
+      <link>https://davyangfinance.github.io/publication/paymentsystemefficiency/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://davyangfinance.github.io/publication/paymentsystemefficiency/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Too Big to Fail, Too Small to Survive: How Safer National Banks Undermine Regional Banks&#39; Stability</title>
+      <link>https://davyangfinance.github.io/publication/bankflowredouane/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://davyangfinance.github.io/publication/bankflowredouane/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt;</description>
     </item>
     
     <item>
@@ -362,7 +398,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-864125379&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-478526139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -372,7 +408,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-864125379&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-478526139&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
