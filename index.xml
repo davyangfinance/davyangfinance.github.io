@@ -165,9 +165,7 @@ doi: &amp;quot;&amp;quot;&lt;/li&gt;
 publication_short: &amp;quot;&amp;quot;&lt;/p&gt;
 &lt;p&gt;abstract: This paper extends the framework of global game modeling and identifies a novel bank-run externality. Regulations strengthening large banks can inadvertently increase the fragility of smaller institutions. By enhancing the perceived safety of large banks, regulations can trigger significant deposit outflows from smaller banks, even with minor economic shocks. This weakens their stability, heightens bankruptcy risks, and creates a feedback loop where deposit competition forces smaller banks to offer higher rates, exacerbating vulnerabilities. We examine the policy implications and propose pathways to mitigate these effects.&lt;/p&gt;
 &lt;h1 id=&#34;summary-a-short-plain-language-intro-shown-on-the-listing-page-above-the-abstract-dropdown&#34;&gt;Summary. A short, plain-language intro shown on the listing page (above the abstract dropdown).&lt;/h1&gt;
-&lt;p&gt;summary: &amp;ldquo;A global-games model showing how making the largest banks safer can backfire: it turns them into a &amp;lsquo;safe neighbor&amp;rsquo; that pulls deposits out of regional banks during a panic, leaving the regionals disproportionately run-prone.&amp;rdquo;
-summary: &amp;ldquo;A global-games model generalized with multiple risky run options and a new proof angle. A safe-neighbor externality: Macroprudential policies calibrated on an isolated-bank model tend to over-fortify
-national banks and under-protect regional banks.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;summary: &amp;ldquo;Using a novel proof method to generalize global-games bank run models to multiple run options, this paper uncovers a &amp;lsquo;safe-neighbor externality&amp;rsquo; where safe national banks drain deposits from regional neighbors during crises. Implication: Macroprudential policies calibrated on isolated single-bank models tend to over-fortify national institutions.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;tags:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Strategic Complementarity&lt;/li&gt;
@@ -194,10 +192,10 @@ featured: false&lt;/li&gt;
 &lt;h1 id=&#34;url_video-&#34;&gt;url_video: &amp;lsquo;#&amp;rsquo;&lt;/h1&gt;
 &lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
 &lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-&lt;p&gt;#image:&lt;/p&gt;
-&lt;h1 id=&#34;caption-&#34;&gt;caption: &#39;&#39;&lt;/h1&gt;
-&lt;h1 id=&#34;focal_point-&#34;&gt;focal_point: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;preview_only-false&#34;&gt;preview_only: false&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;rsquo;&amp;rsquo;
+focal_point: &amp;quot;&amp;quot;
+preview_only: false&lt;/p&gt;
 &lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
 &lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
 &lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
@@ -469,7 +467,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-429368571&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-846597123&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -479,7 +477,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-429368571&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-846597123&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
