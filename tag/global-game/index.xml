@@ -5,7 +5,7 @@
     <link>https://davyangfinance.github.io/tag/global-game/</link>
       <atom:link href="https://davyangfinance.github.io/tag/global-game/index.xml" rel="self" type="application/rss+xml" />
     <description>Global Game</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 by Yilin Yang</copyright><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 by Yilin Yang</copyright><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davyangfinance.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Global Game</title>
@@ -13,11 +13,81 @@
     </image>
     
     <item>
-      <title>Too Big to Fail, Too Small to Survive: How Safer National Banks Undermine Regional Banks&#39; Stability</title>
+      <title>Too Big to Fail, Too Small to Survive</title>
       <link>https://davyangfinance.github.io/publication/bankflowredouane/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://davyangfinance.github.io/publication/bankflowredouane/</guid>
-      <description>&lt;!-- 
+      <description>&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;Too Big to Fail, Too Small to Survive&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Redouane Elkamhi&lt;/li&gt;
+&lt;li&gt;yilin-yang
+date: &amp;ldquo;2024-11-20T00:00:00Z&amp;rdquo;
+doi: &amp;quot;&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
+&lt;h1 id=&#34;publishdate-2017-01-01t000000z&#34;&gt;publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
+&lt;h1 id=&#34;legend-0--uncategorized-1--conference-paper-2--journal-article&#34;&gt;Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;&lt;/h1&gt;
+&lt;h1 id=&#34;3--preprint--working-paper-4--report-5--book-6--book-section&#34;&gt;3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;&lt;/h1&gt;
+&lt;h1 id=&#34;7--thesis-8--patent&#34;&gt;7 = Thesis; 8 = Patent&lt;/h1&gt;
+&lt;p&gt;publication_types: [&amp;ldquo;3&amp;rdquo;]&lt;/p&gt;
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
+&lt;p&gt;publication: &amp;quot;&amp;quot;
+publication_short: &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;abstract: This paper extends the framework of global game modeling and identifies a novel bank-run externality. Regulations strengthening large banks can inadvertently increase the fragility of smaller institutions. By enhancing the perceived safety of large banks, regulations can trigger significant deposit outflows from smaller banks, even with minor economic shocks. This weakens their stability, heightens bankruptcy risks, and creates a feedback loop where deposit competition forces smaller banks to offer higher rates, exacerbating vulnerabilities. We examine the policy implications and propose pathways to mitigate these effects.&lt;/p&gt;
+&lt;h1 id=&#34;summary-a-short-plain-language-intro-shown-on-the-listing-page-above-the-abstract-dropdown&#34;&gt;Summary. A short, plain-language intro shown on the listing page (above the abstract dropdown).&lt;/h1&gt;
+&lt;p&gt;summary: &amp;ldquo;A global-games model showing how making the largest banks safer can backfire: it turns them into a &amp;lsquo;safe neighbor&amp;rsquo; that pulls deposits out of regional banks during a panic, leaving the regionals disproportionately run-prone.&amp;rdquo;
+summary: &amp;ldquo;A global-games model generalized with multiple risky run options and a new proof angle. A safe-neighbor externality: Macroprudential policies calibrated on an isolated-bank model tend to over-fortify
+national banks and under-protect regional banks.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strategic Complementarity&lt;/li&gt;
+&lt;li&gt;Global Game&lt;/li&gt;
+&lt;li&gt;Financial Stability&lt;/li&gt;
+&lt;li&gt;Bank Runs&lt;/li&gt;
+&lt;li&gt;Deposit Competition&lt;/li&gt;
+&lt;li&gt;Macroprudential Regulation
+featured: false&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;link-to-the-paper-on-ssrn-rendered-as-a-button-matching-how-your-other&#34;&gt;Link to the paper on SSRN. Rendered as a button, matching how your other&lt;/h1&gt;
+&lt;h1 id=&#34;papers-point-url_pdf-at-ssrn-relabel-as-an-ssrn-link-if-you-prefer&#34;&gt;papers point &lt;code&gt;url_pdf&lt;/code&gt; at SSRN. Relabel as an &amp;ldquo;SSRN&amp;rdquo; link if you prefer.&lt;/h1&gt;
+&lt;p&gt;url_pdf: &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6538638&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6538638&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;custom-links-optional-add-a-google-scholar-entry-here-once-the-paper-is-indexed&#34;&gt;Custom links (optional). Add a Google Scholar entry here once the paper is indexed.&lt;/h1&gt;
+&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
+&lt;h1 id=&#34;--name-google-scholar&#34;&gt;- name: Google Scholar&lt;/h1&gt;
+&lt;h1 id=&#34;url-&#34;&gt;url: &#39;&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url_code-&#34;&gt;url_code: &amp;lsquo;#&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url_dataset-&#34;&gt;url_dataset: &amp;lsquo;#&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url_poster-&#34;&gt;url_poster: &amp;lsquo;#&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url_project-&#34;&gt;url_project: &#39;&#39;&lt;/h1&gt;
+&lt;h1 id=&#34;url_slides-&#34;&gt;url_slides: &#39;&#39;&lt;/h1&gt;
+&lt;h1 id=&#34;url_source-&#34;&gt;url_source: &amp;lsquo;#&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url_video-&#34;&gt;url_video: &amp;lsquo;#&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
+&lt;p&gt;#image:&lt;/p&gt;
+&lt;h1 id=&#34;caption-&#34;&gt;caption: &#39;&#39;&lt;/h1&gt;
+&lt;h1 id=&#34;focal_point-&#34;&gt;focal_point: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;preview_only-false&#34;&gt;preview_only: false&lt;/h1&gt;
+&lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-internal-project-references-contentprojectinternal-projectindexmd&#34;&gt;E.g. &lt;code&gt;internal-project&lt;/code&gt; references &lt;code&gt;content/project/internal-project/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-projects-&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;projects&#34;&gt;projects:&lt;/h1&gt;
+&lt;h1 id=&#34;--internal-project&#34;&gt;- internal-project&lt;/h1&gt;
+&lt;h1 id=&#34;projects-&#34;&gt;projects: []&lt;/h1&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;slides-example&#34;&gt;slides: example&lt;/h1&gt;
+&lt;h1 id=&#34;slides-&#34;&gt;slides: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -27,7 +97,8 @@
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
- --&gt;</description>
+ --&gt;
+</description>
     </item>
     
   </channel>
