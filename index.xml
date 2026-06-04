@@ -399,7 +399,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-183629574&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-387964521&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -409,7 +409,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-183629574&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-387964521&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1010,6 +1010,34 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davyangfinance.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Yilin (David) Yang</title>
+      <link>https://davyangfinance.github.io/authors/yilin-yang/oldversion/_index2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davyangfinance.github.io/authors/yilin-yang/oldversion/_index2025/</guid>
+      <description>&lt;!-- **Job**: [Postdoctoral Research Associate in Machine Learning for
+Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjFCOENGODdBOTE4NEVGMEUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&amp;sap-client=400&amp;sap-language=EN&amp;sap-accessibility=X&amp;sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#). *Deadline: 12th Jan 2022*. Fixed term till 31st March 2023, start as soon as possible. --&gt;
+&lt;!-- **[PhD Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [Faculty scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/faculty), [CSC for Chinese applicants](https://www.sheffield.ac.uk/postgraduate/research/scholarships/csc), and [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/). *Deadline: 5pm 26th Jan 2022*. Email me **ONE PDF** including CV, a statement on why, 1-3 papers, and transcripts *before* applying. Check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+*** --&gt;
+&lt;!-- **PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements. **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*).
+*** --&gt;
+&lt;!-- ***
+Version till 2024.12.02
+I am an Assistant Finance Professor at the City University of Hong Kong. My research interests span various areas of financial markets research and banking-related issues. My ongoing work focuses on monetary policy transmission and the effects of reference rate transition on credit supply. I teach a course on Security Analysis and a course on Asset Management.
+--&gt;
+&lt;!-- ***
+Version 2024.12.02 -- (current)
+I am an Assistant Finance Professor at the City University of Hong Kong. My research interests span various areas of financial markets research and banking-related issues. My ongoing work focuses on monetary policy transmission and the effects of reference rate transition on credit supply. I teach a course on Security Analysis and a course on Asset Management.
+--&gt;
+&lt;p&gt;I am an Assistant Finance Professor at the City University of Hong Kong. My research interests span various areas of financial markets research and banking-related issues. My ongoing work focuses on monetary policy transmission and financial fragility, specifically in the context of regional banking crises. I teach a course on Security Analysis and a course on Asset Management.&lt;/p&gt;
+&lt;!-- ***
+**PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements. --&gt;
+&lt;!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). --&gt;
+&lt;!-- ***
+**NOTE: under construction**. --&gt;
+</description>
     </item>
     
   </channel>
